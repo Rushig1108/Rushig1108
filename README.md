@@ -58,4 +58,3 @@ I am an experienced **DevOps Engineer** passionate about automating cloud infras
 ---
 
 💡 **Always exploring new technologies, solving DevOps challenges, and sharing insights!**  
-🌱 **Currently preparing for AWS Solutions Architect - Professional certification.**  
